@@ -1,0 +1,11 @@
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\FFTConsoleApp.deps.json
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\FFTConsoleApp.runtimeconfig.json
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\FFTConsoleApp.runtimeconfig.dev.json
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\FFTConsoleApp.dll
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.AssemblyInfo.cs
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\FFTConsoleApp.pdb
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.dll
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.pdb
+C:\Users\Archer Morgan\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\FFTConsoleApp.csprojAssemblyReference.cache
